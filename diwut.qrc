@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>diwut/ball.png</file>
+        <file>diwut/boundary.png</file>
+        <file>diwut/citie.png</file>
+        <file>diwut/gudong.png</file>
+        <file>diwut/gun.png</file>
+        <file>diwut/gunzi.jpg</file>
+        <file>diwut/helmet.png</file>
+        <file>diwut/jieke.png</file>
+        <file>diwut/kantang.png</file>
+        <file>diwut/konjun.png</file>
+        <file>diwut/kuchou.png</file>
+        <file>diwut/music.mp3</file>
+        <file>diwut/qianfeng.png</file>
+        <file>diwut/qishi.png</file>
+        <file>diwut/rocket.png</file>
+        <file>diwut/jiazai.jpg</file>
+        <file>diwut/guimi.mp3</file>
+        <file>diwut/heart.png</file>
+    </qresource>
+</RCC>
